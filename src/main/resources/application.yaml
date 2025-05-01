@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: user_query_app
+  thymeleaf:
+    cache: false
